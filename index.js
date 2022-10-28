@@ -1,6 +1,6 @@
 /**
- * Author  : Gimenz
- * Name    : nganu
+ * Author  : T0MTys
+ * Name    : Es Teh
  * Version : 1.0
  * Update  : 08 Januari 2022
  * 
